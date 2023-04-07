@@ -23,4 +23,10 @@ The data set provided, the variables that were continuous were given as normaliz
 
 ![aa8f3b22-9c5e-4c4a-af52-2e2279dedd64](https://user-images.githubusercontent.com/123125444/230570440-e05ca8cf-4374-472f-b7a7-95b4c65c816e.png)
 
+-  The figure below shows the distribution of how many people fall into the different categories of assessments, which are called responses. Responses is the target that we wish to predict for each client. The numbers are not continuous, they are nominal categorical. We see that most of our clients are under the "8" assessment aka Response. 
+
+![646d3911-8d38-4c52-a80d-238826e8733c](https://user-images.githubusercontent.com/123125444/230572162-10aa6bb6-855e-4a0b-a86e-546efe595ffc.png)
+
+
+
 
