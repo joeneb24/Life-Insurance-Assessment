@@ -10,10 +10,15 @@ As a life insurance agent, I always wondered what kind of machine learning is us
 The data set used came from a Kaggle competition 7 years ago that Prudential Life hosted. I took parts of the dataset to demonstrate my machine learning skills. A follow up analysis of the full data set will be posted on my GitHub in the future. 
 Kaggle Competition: https://www.kaggle.com/competitions/prudential-life-insurance-assessment/data
 
+# Data Dictionary
+![download](https://user-images.githubusercontent.com/123125444/230571083-37d71153-5edd-4f12-b7a7-8bf34e15ab71.png)
+
 # Quick Note on the data:
 The data set provided, the variables that were continuous were given as normalized values, meaning that the largest value for that variable was set to 1 and the lowest value in that variable was 0.
 
 # Data preparation and cleaning was done on the data before the following processes:
+
+## Exploratory Visuals
 - The figure below is a histogram that shows the distribution of the normalized age of the clients applying for life insurance. If the maximum age in assumed to be 100 and minimum age is 0, from the figure below we can infer that the median age of people looking for a life insurance are in their 40's. The median age is shown with the dashed line
 
 ![aa8f3b22-9c5e-4c4a-af52-2e2279dedd64](https://user-images.githubusercontent.com/123125444/230570440-e05ca8cf-4374-472f-b7a7-95b4c65c816e.png)
