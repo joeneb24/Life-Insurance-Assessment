@@ -27,6 +27,11 @@ The data set provided, the variables that were continuous were given as normaliz
 
 ![646d3911-8d38-4c52-a80d-238826e8733c](https://user-images.githubusercontent.com/123125444/230572162-10aa6bb6-855e-4a0b-a86e-546efe595ffc.png)
 
+- The figure below shows the correlations between all of the continuous variables. We see that there are strong correlations with Ins_Age and Family_Hist_2, Ins_age and Family_Hist_4, and Family_Hist_4 and Family_Hist_2. They are moderate correlations between Employment_Info_6 with Family_Hist2 and Family_Hist_4. We also see strong correlations beween the Ht/Wt and Wt/BMI, which all make sense because BMI changes greatly with Wt. 
+
+![df8491f4-737f-4c7d-a81e-ce1bbf6e19b4](https://user-images.githubusercontent.com/123125444/230573361-8bfa4eeb-e2af-4602-9ff0-8c19719f1424.png)
+
+
 
 
 
