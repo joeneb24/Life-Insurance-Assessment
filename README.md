@@ -99,10 +99,10 @@ Decision Tree Models:
 
 * In conclusion, the best model to use out of the four decision trees was the feature engineered and tuned decision tree model since it was the fastest to execute and had the highest accuracy score. 
 
-# Final Recommedation
+# Final Recommendation
 - From the eight models I made, the best one was by far the random forest model that was untuned with no feature engineering. It had the highest accuracy score of all the models and it was the fastest performing random forest model. 
 - For insurance companies to choose the right model, it has to be accurate and relatively fast if you need a decision to be made right away. Many insurance companies are gravitating towards instant application approvals, assuming their client qualifies. The clients I work with are ecstatic when I can deliver them good news that their application is approved. It makes them want to keep the policy in force, and for me most importantly I can get paid quicker if the policy is instantly approved. Machine learning is vital to making the process fast and accurate, since insurance companies must have a way to control and lower their risks as well. 
 
-# Relection: 
+# Reflection: 
 - The data cleaning and feature dropping may have caused my accurracy to go down considerably. I made these choices to speed up the machine learning process and also to made the data set more managable. Furthermore, upon reflection, the compeition data set may not have been a good choice to run these prediction models on. Also, this was just a project to show my machine learning skill set on a large data set. Finnaly, in the future I will use the full data set and will consider using PCA and other methods. I also have plans to revisit this project to include unsurpervised learning. 
 
